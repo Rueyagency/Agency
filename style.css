@@ -1,0 +1,42 @@
+/* Vollständige Zentrierung des Inhalts */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container für das Logo und die Kontaktinformationen */
+.container {
+    text-align: center;
+}
+
+/* Größe und Anpassung des Logos */
+.container img {
+    max-width: 300px; /* Du kannst die Größe hier anpassen */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Textstil für den Kontaktbereich */
+.container p {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Linkstil für E-Mail */
+.container a {
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+/* Hover-Effekt für den Link */
+.container a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
