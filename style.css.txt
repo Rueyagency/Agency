@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    max-width: 400px; /400px/
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.container p {
+    font-size: 18px;
+    color: black;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rüya Agency</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo.jpg" alt="Rüya Agency Logo">
+        <p>Kontakt: <a href="mailto:info@rueyagency.de">info@rueyagency.de</a></p>
+    </div>
+</body>
+</html>
